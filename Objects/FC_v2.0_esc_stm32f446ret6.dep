@@ -1,0 +1,36 @@
+Dependencies for Project 'FC_v2.0_esc', Target 'stm32f446ret6': (DO NOT MODIFY !)
+F (.\cmsis_armcc.h)(0x5A0E12CA)()
+F (.\cmsis_compiler.h)(0x5A0E12CA)()
+F (.\stm32f4xx.h)(0x58238428)()
+F (.\stm32f446xx.h)(0x5823843A)()
+F (.\system_stm32f4xx.h)(0x5823843A)()
+F (.\core_cm4.h)(0x5A0E12CA)()
+F (.\main.c)(0x5A41CD86)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_stm32f446ret6-ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F446xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (stm32f4xx.h)(0x58238428)
+I (stm32f446xx.h)(0x5823843A)
+I (core_cm4.h)(0x5A0E12CA)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C3A14)
+I (cmsis_version.h)(0x5A0E12CA)
+I (cmsis_compiler.h)(0x5A0E12CA)
+I (cmsis_armcc.h)(0x5A0E12CA)
+I (mpu_armv7.h)(0x5A0E12CA)
+I (system_stm32f4xx.h)(0x5823843A)
+F (.\startup_stm32f446xx.s)(0x5A39BB09)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_stm32f446ret6-ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "_RTE_ SETA 1" --pd "STM32F446xx SETA 1"--list .\listings\startup_stm32f446xx.lst --xref -o .\objects\startup_stm32f446xx.o --depend .\objects\startup_stm32f446xx.d)
+F (.\system_stm32f4xx.c)(0x5A401CAE)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_stm32f446ret6-ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F446xx-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (stm32f4xx.h)(0x58238428)
+I (stm32f446xx.h)(0x5823843A)
+I (core_cm4.h)(0x5A0E12CA)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C3A14)
+I (cmsis_version.h)(0x5A0E12CA)
+I (cmsis_compiler.h)(0x5A0E12CA)
+I (cmsis_armcc.h)(0x5A0E12CA)
+I (mpu_armv7.h)(0x5A0E12CA)
+I (system_stm32f4xx.h)(0x5823843A)
+F (D:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.3.3\Source\retarget_io.c)(0x584EE08E)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_stm32f446ret6-ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F446xx-o .\objects\retarget_io.o --omf_browse .\objects\retarget_io.crf --depend .\objects\retarget_io.d)
+I (D:\Keil_v5\ARM\ARMCC\include\string.h)(0x588C3A14)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588C3A14)
+I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588C3A14)
+I (D:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x588C3A14)
+I (D:\Keil_v5\ARM\ARMCC\include\assert.h)(0x588C3A14)
+I (D:\Keil_v5\ARM\ARMCC\include\rt_sys.h)(0x588C3A14)
+I (.\RTE\_stm32f446ret6\RTE_Components.h)(0x5A415CA3)
